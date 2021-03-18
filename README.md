@@ -1,2 +1,2 @@
 # NodeShard
-Dev team
+Created a github
